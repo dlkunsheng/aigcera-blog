@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `AIGC时代博客`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `桁椽`,
+      summary: `架构师`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `richardcuick`,
     },
   },
   plugins: [
@@ -122,5 +122,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/aigcera-blog",
+  pathPrefix: "/",
 }
